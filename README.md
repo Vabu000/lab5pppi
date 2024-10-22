@@ -6,5 +6,5 @@ Hello!
 I have added the realization of some methods in class book and library
 It was easy
 #he
-#It was quite easy!
+#It was quite easy
 # I try to create a conflict
